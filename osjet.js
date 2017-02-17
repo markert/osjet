@@ -80,3 +80,4 @@ var updateStates = function() {
         updateStates();
     }, interval)
 }
+updateStates();
