@@ -1,0 +1,26 @@
+{
+  "name": "osjet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markert/osjet.git"
+  },
+  "author": "Florian Markert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markert/osjet/issues"
+  },
+  "homepage": "https://github.com/markert/osjet#readme",
+  "dependencies": {
+    "diskspace": "^1.0.3",
+    "node-jet": "^1.4.0",
+    "nopt": "^4.0.1"
+  },
+  "devDependencies": {
+  }
+}
